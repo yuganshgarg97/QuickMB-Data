@@ -1,0 +1,6 @@
+'Process-Name', 'Time-Taken', 'Avg-CPU-usage', 'Agv-Memory-usage', 'Avg-Swap-usage'
+'Data Transferring Strength', 20.82459330558777, 0.3343821348124542, 3.1694897622665605
+'Data Encoding/ Decoding Strength', 23.9495747089386, 0.5323147927268131, 3.146591112946411
+'Instruction Handling Strength', 15.410383939743042, 33.43116213418351, 3.2282849244540586
+'Arithmetic Calculation Strength', 77.58787059783936, 99.6439023032192, 6.293975414810444
+'Float Calculation Strength', 4.708279609680176, 94.515, 15.659999999999998

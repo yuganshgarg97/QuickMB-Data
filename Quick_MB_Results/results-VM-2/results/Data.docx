@@ -1,0 +1,48 @@
+ Welcome to 
+Linux instance-2 5.15.0-1029-gcp #36~20.04.1-Ubuntu SMP Tue Jan 24 16:53:45 UTC 2023 aarch64 aarch64 aarch64 GNU/Linux
+root
+ 08:29:30 up 7 min,  1 user,  load average: 1.02, 0.34, 0.11
+Architecture:                    aarch64
+CPU op-mode(s):                  64-bit
+Byte Order:                      Little Endian
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       ARM
+Model:                           1
+Model name:                      Neoverse-N1
+Stepping:                        r3p1
+BogoMIPS:                        50.00
+NUMA node0 CPU(s):               0
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Mmio stale data:   Not affected
+Vulnerability Retbleed:          Not affected
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; CSV2, BHB
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp ssbs
+              total        used        free      shared  buff/cache   available
+Mem:          3.8Gi       186Mi       2.6Gi       0.0Ki       1.1Gi       3.5Gi
+Swap:            0B          0B          0B
+25M	.
+              total        used        free      shared  buff/cache   available
+Mem:          3.8Gi       185Mi       2.6Gi       0.0Ki       1.1Gi       3.5Gi
+Swap:            0B          0B          0B
+10.128.0.9 
+Retrieving speedtest.net configuration...
+Testing from Google Cloud (34.135.179.198)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Skywave (West Point, NE) [96.34 km]: 29.955 ms
+Testing download speed................................................................................
+Download: 2361.75 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 721.33 Mbit/s
